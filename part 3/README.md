@@ -1,7 +1,7 @@
 Applied AI & ML Essentials – Capstone Project (Part 3)
 Overview
 
-This project improves the heart attack risk prediction models developed in Part 2 by using advanced machine learning techniques.
+This project improves the heart attack risk prediction models developed  by using advanced machine learning techniques.
 
 Objectives
 Build and compare ensemble models.
@@ -90,5 +90,3 @@ Feature importance does not imply causation.
 Conclusion
 
 This project compared multiple machine learning models for heart attack risk prediction. After evaluating performance using cross-validation and ROC-AUC, the best model was selected, saved, and prepared for deployment using a complete machine learning pipeline.
-
-This version is about 60–70% shorter while keeping all the important information.
