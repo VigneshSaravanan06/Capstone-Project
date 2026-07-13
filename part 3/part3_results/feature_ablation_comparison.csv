@@ -1,0 +1,3 @@
+Model,Number of Features,Test AUC
+Full Random Forest,26,0.8521560101873262
+Reduced Random Forest,21,0.8528094735431118

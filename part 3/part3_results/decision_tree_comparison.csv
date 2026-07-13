@@ -1,0 +1,3 @@
+Model,Training Accuracy,Test Accuracy,Train-Test Gap
+Unconstrained Decision Tree,1.0,0.6671428571428571,0.33285714285714285
+Controlled Decision Tree,0.7257142857142858,0.7128571428571429,0.0128571428571429

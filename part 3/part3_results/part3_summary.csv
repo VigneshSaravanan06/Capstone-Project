@@ -1,0 +1,16 @@
+Metric,Value
+Default Tree Train Accuracy,1.0
+Default Tree Test Accuracy,0.6671428571428571
+Controlled Tree Train Accuracy,0.7257142857142858
+Controlled Tree Test Accuracy,0.7128571428571429
+Gini Tree Test Accuracy,0.7128571428571429
+Entropy Tree Test Accuracy,0.7042857142857143
+Random Forest Train Accuracy,0.9307142857142857
+Random Forest Test Accuracy,0.7628571428571429
+Random Forest Test AUC,0.8521560101873262
+Reduced Random Forest Test AUC,0.8528094735431118
+Gradient Boosting Train Accuracy,0.8182142857142857
+Gradient Boosting Test Accuracy,0.7685714285714286
+Gradient Boosting Test AUC,0.858020424918736
+Grid Search Best CV AUC,0.8411748161283981
+Best Pipeline Test AUC,0.852168576790322
