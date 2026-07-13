@@ -1,0 +1,18 @@
+Metric,Value
+Linear Regression MSE,853.0716952540398
+Linear Regression R²,0.1410133361648046
+Ridge Regression MSE,853.0714173087259
+Ridge Regression R²,0.1410136160373161
+Baseline Accuracy,0.7821428571428571
+Baseline Precision,0.7674858223062382
+Baseline Recall,0.6904761904761905
+Baseline F1,0.7269471799462847
+Baseline AUC,0.866163583660065
+Strong Regularization Precision,0.77431906614786
+Strong Regularization Recall,0.6768707482993197
+Strong Regularization F1,0.7223230490018149
+Strong Regularization AUC,0.8670139237961194
+Best F1 Threshold,0.3
+Mean Bootstrap AUC Difference,-0.0007825319756030136
+Bootstrap Lower 95%,-0.0021796507505384643
+Bootstrap Upper 95%,0.0008195573467368873
